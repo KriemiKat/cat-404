@@ -1,0 +1,99 @@
+.main{
+    max-width:1500px;
+    margin-left: 10%;
+    height:130px ;
+    display: inline-block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.main-content{
+    display: inline-block;
+    width: 900px;
+    margin-left: 10%;
+}
+.navbar{
+    width:400px;
+    height:60px;
+    margin-left: 8%;
+    display: inline-block;
+}
+
+
+.logo{
+    width:100px;
+    height:50px;
+    float:left;
+    font-weight: bold;
+}
+
+.meniu{
+    width:600px;
+    float: right;
+    height: 70px;
+    display: flex;
+}
+
+ul{
+    float: left;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+       
+}
+
+ul li{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.left-column{
+    width: 400px;
+    height: 400px;
+    margin-left: 0%;
+    display: inline-block;
+}
+
+.main-text{
+font-size: 100px;
+margin-bottom: 20px;
+
+}
+
+.big-text{
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.but{
+    width: 50px;
+    display: inline-block;
+    height: 20px;
+}
+
+.button-right{
+    float:right
+}
+
+.right-column{
+    width: 400px;
+    height: 500px;
+    margin: 0%;
+    float: right;
+}
+
+.img{
+    width: 100%;
+    float: right;
+    margin: 0;
+    display: block;
+}
